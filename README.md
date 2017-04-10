@@ -3,6 +3,8 @@
 
 The Pinpoint team was accepted into Spring/Summer 2017 [YCombinator Startup School](https://www.startupschool.org) and every week we are to report our metric updates on growth.
 
+![Week 1](http://blog.pinpt.co/wp-content/uploads/2017/04/how-why.jpg)
+
 ### Week 1
 >Sam Altman, President of Y Combinator, and Dustin Moskovitz, Cofounder of Facebook and Asana, kick off the How to Start a Startup Course. Dustin discusses Why to Start a Startup and Sam introduces the 4 key components of Starting a Startup: Idea, Product, Team and Execution.
 
@@ -20,6 +22,7 @@ The Pinpoint team was accepted into Spring/Summer 2017 [YCombinator Startup Scho
 
 fdfd
 
+![Week 2](http://blog.pinpt.co/wp-content/uploads/2017/04/startup-mechanics.png)
 
 ### Week 2
 >Kirsty Nathoo is a Partner and the CFO at Y Combinator. She has worked with thousands of companies through all stages of their life; from incorporation to hiring to fundraising. In this lecture, Kirsty will talk about Startup Mechanics.
