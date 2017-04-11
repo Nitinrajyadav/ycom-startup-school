@@ -16,11 +16,14 @@ The Pinpoint team was accepted into Spring/Summer 2017 [YCombinator Startup Scho
 #### Update
 
 1. Metric: Other
-2. Value: 
+2. Value: 2
 3. Growth %: N/A
-4. Additional Information
+4. Additional Information:
 
-fdfd
+For context, we are pre-revenue, pre-public product and do not have any of those "hard" metrics to show. We do have some GTM metrics which are useful but, per our mentor Boris Jabes, he suggested we focus on "beta/pilot users/customers" that might be more in-line with our overall strategy as we build for the enterprise.
+
+Right now, we're focusing on connecting with organizations that will actively pilot our prototype and added 2 significant relationships to the mix. We'll continue to iron out this metric as well as add context to it as we move forward.
+
 
 ![Week 2](http://blog.pinpt.co/wp-content/uploads/2017/04/startup-mechanics.png)
 
