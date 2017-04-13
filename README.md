@@ -45,3 +45,19 @@ Right now, we're focusing on connecting with organizations that will actively pi
 4. Additional Information
 
 fdfd
+
+
+![Week 3](http://blog.pinpt.co/wp-content/uploads/2017/04/how-to-get-ideas-measure.jpg)
+
+### Week 3
+>In today's lecture, we're joined by Stewart Butterfield, founder and CEO of Slack, and Adam D'Angelo, founder and CEO of Quora. Sam and Stewart will explore the process of getting an idea, followed by Adam on tracking metrics for your company.
+
+0. Course Lecture: [How to Get Ideas and How to Measure - Stewart Butterfield & Adam D'Angelo](https://www.youtube.com/watch?v=zsBjAuexPq4)
+1. [Adam's Lecture Slides](https://www.dropbox.com/s/74c64vt5wpl20ir/Adam%20D%27Angelo%20-%20Measurement.pdf?dl=0)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
