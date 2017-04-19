@@ -40,11 +40,11 @@ Right now, we're focusing on connecting with organizations that will actively pi
 #### Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 1
+3. Growth %: 50%
 4. Additional Information
 
-fdfd
+Again, we are pre-revenue and without a public product. What we did manage to do is secure another serious interest for an enterprise launch partner (or design partner) with a very serious and well-known company. They have 300+ engineers and are scaling fast with needs for mass-agile transformation and insight into their engineering impact and spend. Although we do not necessarily have the staff necessary to add another customer today, we hope to complete our raise soon and hire / onboard some new employees to help with the heavy-lifting. 
 
 
 ![Week 3](http://blog.pinpt.co/wp-content/uploads/2017/04/how-to-get-ideas-measure.jpg)
@@ -54,6 +54,22 @@ fdfd
 
 0. Course Lecture: [How to Get Ideas and How to Measure - Stewart Butterfield & Adam D'Angelo](https://www.youtube.com/watch?v=zsBjAuexPq4)
 1. [Adam's Lecture Slides](https://www.dropbox.com/s/74c64vt5wpl20ir/Adam%20D%27Angelo%20-%20Measurement.pdf?dl=0)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
+
+
+![Week 4](http://blog.pinpt.co/wp-content/uploads/2017/04/live-office-hours-yuri-sagalov-sam-altman.jpg)
+
+### Week 4
+>Yuri Sagalov, CEO of Amium, and Sam Altman hold Live Office Hours with three startups: MoonlightWork, Canny and Tuml. They'll discuss their ideas and their thought processes around building their companies.
+
+0. Course Lecture: [Live Office Hours with Yuri Sagalov and Sam Altman - CS183F](https://www.youtube.com/watch?v=abtHadERzXU)
+1. [Office Hours Transcript](https://jotengine.com/transcriptions/c5wMlbF5r1SFMCYzUzMFGw)
 
 #### Update
 
