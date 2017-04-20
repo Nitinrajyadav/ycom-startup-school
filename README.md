@@ -77,3 +77,18 @@ Again, we are pre-revenue and without a public product. What we did manage to do
 2. Value: 
 3. Growth %: N/A
 4. Additional Information
+
+
+![Week 5](http://blog.pinpt.co/wp-content/uploads/2017/04/how-build-product.jpg)
+
+### Week 5
+>In the first of four lectures on How to Build a Product, Michael Seibel, CEO of Y Combinator, interviews Steve Huffman and Emmett Shear on how they built their products as founder-CEO's of Reddit and Twitch, respectively.
+
+0. Course Lecture: [How to Build a Product I - Michael Seibel, Emmett Shear & Steve Huffman](https://youtu.be/6IFR3WYSBFM)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
