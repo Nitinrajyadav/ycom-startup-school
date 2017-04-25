@@ -92,3 +92,19 @@ Again, we are pre-revenue and without a public product. What we did manage to do
 2. Value: 
 3. Growth %: N/A
 4. Additional Information
+
+
+![Week 6](http://blog.pinpt.co/wp-content/uploads/2017/04/how-to-build-product-2.jpg)
+
+### Week 6
+>For our second talk on How to Build a Product, we are joined by Aaron Levie, CEO and co-founder of Box.
+
+0. Course Lecture: [How to Build a Product II - Aaron Levie - Box](https://www.youtube.com/watch?v=qRt7mFuKwQY)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
+
