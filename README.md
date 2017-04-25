@@ -57,10 +57,14 @@ Again, we are pre-revenue and without a public product. What we did manage to do
 
 #### Update
 
-1. Metric: Other
-2. Value: 
+1. Metric: Weeks til Launch
+2. Value: 4
 3. Growth %: N/A
 4. Additional Information
+
+We are not a public SaaS product yet and have a ways to go from there. Our current GTM is to encounter larger enterprise customers and provide our unique technology and services in a high-touch engagement. Many of these earlier customers are also "Design Partners" who are helping us to build a best-in-class product that can be scaled.
+
+We know that the conversations take time to mature and we're already securing these early customers / Design Partners. We believe we have a few more weeks until we can deploy something into our first-round customers.
 
 
 ![Week 4](http://blog.pinpt.co/wp-content/uploads/2017/04/live-office-hours-yuri-sagalov-sam-altman.jpg)
