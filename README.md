@@ -112,3 +112,17 @@ We know that the conversations take time to mature and we're already securing th
 3. Growth %: N/A
 4. Additional Information
 
+
+![Week 7](http://blog.pinpt.co/wp-content/uploads/2017/04/how-build-product-3.jpg)
+
+### Week 7
+>Jason Lemkin, of SaaStr, sits down with Solomon Hykes, CEO and co-founder of Docker, Tracy Young, CEO and co-founder of Plangrid, and Harry Zhang, CEO and co-founder of Lob, to discuss their experience building products in our third installment of How to Build a Product.
+
+0. Course Lecture: [How to Build a Product III - Jason Lemkin, Solomon Hykes, Tracy Young & Harry Zhang](https://www.youtube.com/watch?v=09GRs0FXdWQ)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
