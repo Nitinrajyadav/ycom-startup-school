@@ -126,3 +126,19 @@ We know that the conversations take time to mature and we're already securing th
 2. Value: 
 3. Growth %: N/A
 4. Additional Information
+
+
+![Week 8](http://blog.pinpt.co/wp-content/uploads/2017/05/build-product-iv.jpg)
+
+### Week 8
+>In the fourth and final episode of How to Build a Product, Jan Koum shares his journey as the CEO and co-founder of WhatsApp.
+
+0. Course Lecture: [How to Build a Product IV - Jan Koum](https://www.youtube.com/watch?v=s1Rd4UShDxQ)
+1. [Lecture Transcript](https://jotengine.com/transcriptions/Py3sb6ndOULZvJuleXnD9Q)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
