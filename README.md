@@ -78,10 +78,11 @@ We know that the conversations take time to mature and we're already securing th
 #### Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 1
+3. Growth %: 50%
 4. Additional Information
 
+We're in active conversations with a handful of other large-scale enterprise organizations and are excited about the continued validation of real pain points and moving the conversations forward. We're in the middle of financing conversations as well, which are a "necessary evil" for us as we know that we'll need some capital to scale but do not enjoy time away from product building! Things are 👍🏼  right now!
 
 ![Week 5](http://blog.pinpt.co/wp-content/uploads/2017/04/how-build-product.jpg)
 
