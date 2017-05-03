@@ -143,3 +143,18 @@ We're in active conversations with a handful of other large-scale enterprise org
 2. Value: 
 3. Growth %: N/A
 4. Additional Information
+
+
+![Week 9](http://blog.pinpt.co/wp-content/uploads/2017/05/how-to-get-users-grow.jpg)
+
+### Week 9
+>Alex Schultz, VP of Growth at Facebook, shares with us how to get users, how to grow, and how to measure growth.
+
+0. Course Lecture: [How to Get Users and Grow - Alex Schultz](https://www.youtube.com/watch?v=URiIsrdplbo)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
