@@ -158,3 +158,48 @@ We're in active conversations with a handful of other large-scale enterprise org
 2. Value: 
 3. Growth %: N/A
 4. Additional Information
+
+
+![Week 10](http://blog.pinpt.co/wp-content/uploads/2017/05/adora-cheung-avichal-garg.jpg)
+
+### Week 10
+>In this session of Live Office Hours, Adora Cheung, YC Partner, and Avichal Garg, previously Director of Product Management at Facebook and now an Expert at YC, sit down with three startups: Edmission, Yembo.ai, and Almabase.
+
+0. Course Lecture: [Live Office Hours with Adora Cheung and Avichal Garg](https://www.youtube.com/watch?v=3ESoTBIDbpk)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
+
+
+![Week 11](#)
+
+### Week 11
+>xxx
+
+0. Course Lecture: [How to Get Users and Grow - Alex Schultz](https://www.youtube.com/watch?v=URiIsrdplbo)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
+
+
+![Week 12](#)
+
+### Week 12
+>xxx
+
+0. Course Lecture: [How to Get Users and Grow - Alex Schultz](https://www.youtube.com/watch?v=URiIsrdplbo)
+
+#### Update
+
+1. Metric: Other
+2. Value: 
+3. Growth %: N/A
+4. Additional Information
