@@ -175,12 +175,12 @@ We're in active conversations with a handful of other large-scale enterprise org
 4. Additional Information
 
 
-![Week 11](#)
+![Week 11](http://blog.pinpt.co/wp-content/uploads/2017/05/how-invent-future.jpg)
 
 ### Week 11
->xxx
+>One of the pioneers of personal computing, Alan Kay thought of laptops and graphical interfaces years before they were realized. At XeroxPARC, Apple, HP and Disney, he has developed tools for improving the mind. In these two lectures, Alan shares his story and how to think about building for the future.
 
-0. Course Lecture: [How to Get Users and Grow - Alex Schultz](https://www.youtube.com/watch?v=URiIsrdplbo)
+0. Course Lecture: [How to Invent the Future I - Alan Kay](https://www.youtube.com/watch?v=ZDM33CMJvp8)
 
 #### Update
 
