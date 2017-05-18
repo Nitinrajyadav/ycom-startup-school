@@ -94,9 +94,13 @@ We're in active conversations with a handful of other large-scale enterprise org
 #### Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 0
+3. Growth %: 0%
 4. Additional Information
+
+We didn't actually add any new customers into our already existing backlog and instead are focused on serving our first-line, early-stage customers and making them really, really happy.
+
+We are also in the process of putting a venture financing round together, so, that has honestly been a necessary distraction to company-building, although we are nearing the end of that process - thank goodness.
 
 
 ![Week 6](http://blog.pinpt.co/wp-content/uploads/2017/04/how-to-build-product-2.jpg)
@@ -109,10 +113,17 @@ We're in active conversations with a handful of other large-scale enterprise org
 #### Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 1
+3. Growth %: 100%
 4. Additional Information
 
+We added a new customer to the list and we've got a very large and growing backlog of customers that we'd love to engage with fully but do not have enough staff (quite yet) to handle. These are great problems to have, to be honest.
+
+What we are doing is changing our team's focus and strategy on building out the product with our first few handful of customers... we are calling them "design partners" as they will assist in not only implementing and using the product but also helping us make it better for agnostic use.
+
+We are also doing some venture work as well and that's taken up a substantial amount of time, but, should be over shortly.
+
+All very good problems to have! Grateful for the community and the support that we've got!
 
 ![Week 7](http://blog.pinpt.co/wp-content/uploads/2017/04/how-build-product-3.jpg)
 
@@ -124,10 +135,11 @@ We're in active conversations with a handful of other large-scale enterprise org
 #### Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 0
+3. Growth %: 0%
 4. Additional Information
 
+Continue to grind this week and close our financing round. Not much action, tbh, but, important work to be done. We're also onboarding new staff, so, that's our main focus right now for the week!
 
 ![Week 8](http://blog.pinpt.co/wp-content/uploads/2017/05/build-product-iv.jpg)
 
