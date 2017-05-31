@@ -118,6 +118,15 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 0. Course Lecture: [How to Think About PR - Sharon Pope](https://www.youtube.com/watch?v=KlekeNwOGHw)
 1. [Lecture Slides](https://www.dropbox.com/s/2yyl9ameg39zppt/Sharon%20Pope%20-%20How%20to%20Think%20About%20PR.pdf?dl=0)
 
+![Lecture 15](http://blog.pinpt.co/wp-content/uploads/2017/05/diversity-inclusion.jpg)
+
+### Lecture 15
+>Kat Manalac, Partner and Director of Outreach at YC, hosts a panel with Makinde Adeagbo (dev/color), Cat Perez (HealthSherpa), Jennifer Kim (Lever), Ashu Desai (Make School), Mitchell Lee (Penny) and Cristina Cordoba (Stripe) to discuss the importance of diversity and inclusion in the workforce for early stage companies.
+
+0. Course Lecture: [Diversity + Inclusion at Early Stage Startups](https://youtu.be/v8b_urti6iQ)
+1. [Lecture Slides](https://www.dropbox.com/s/xavo0w35tk1yzgl/Kat%20Manalac%20-%20Diversity%20%26%20Inclusion.pdf?dl=0)
+2. [Startup School D&I Resources](https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit)
+
 ...
 ...
 ...
