@@ -221,18 +221,20 @@ Continue to grind this week and close our financing round. Not much action, tbh,
 ### Week 8 Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 0
+3. Growth %: 0%
 4. Additional Information
 
+Not much of an update, tbh... started the process to onboard our first customer and finalizing operational needs for our first 2 employees that we've hired... and 2 interns! Very positive momentum. Feeling great.
 
 ### Week 9 Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 0
+3. Growth %: 0
 4. Additional Information
 
+Quite literally the same update as Week #8.
 
 ### Week 10 Update
 
