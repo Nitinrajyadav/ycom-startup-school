@@ -127,7 +127,7 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 1. [Lecture Slides](https://www.dropbox.com/s/xavo0w35tk1yzgl/Kat%20Manalac%20-%20Diversity%20%26%20Inclusion.pdf?dl=0)
 2. [Startup School D&I Resources](https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit)
 
-![Lecture 16](http://blog.pinpt.co/wp-content/uploads/2017/05/diversity-inclusion.jpg)
+![Lecture 16](http://blog.pinpt.co/wp-content/uploads/2017/05/build-manage-teams.jpg)
 
 ### Lecture 16
 >Anu Hariharan, Partner at YC Continuity, sits down with Vinod Khosla, Founder of Khosla Ventures and previously the founding CEO and co-founder of Sun Microsystems, to talk about belief systems around hiring, and how to manage your company’s growth internally.
