@@ -145,6 +145,7 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 ### Lecture 17
 >Kevin Hale, Partner at Y Combinator, and Dalton Caldwell, Director of Admissions and Partner at Y Combinator, join us today to hold office hours with three startups: HubHaus, Lambda Intelligence, and Commaful.
 
+0. Course Lecture: [Live Office Hours with Kevin Hale and Dalton Caldwell](https://www.youtube.com/watch?v=8Qc8ipjzatY)
 
 ...
 ...
