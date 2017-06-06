@@ -135,11 +135,16 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 0. Course Lecture: [How to Build and Manage Teams](https://youtu.be/alqHBCkSN8I)
 1. [Lecture Slides](https://www.dropbox.com/s/xavo0w35tk1yzgl/Kat%20Manalac%20-%20Diversity%20%26%20Inclusion.pdf?dl=0)
 2. [Startup School D&I Resources](https://docs.google.com/document/d/1lrN4MXieXFXex2sxssJ7PODdTbzR-TnBniLZFGol-2s/edit)
+3. [The Art, Science, and Labor of Recruiting](http://www.khoslaventures.com/the-art-science-and-labor-of-recruiting)
+4. [Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/gene-pool-engineering-for-entrepreneurs)
+5. [Company Building (Vinod's talk at KV Summit)](https://www.youtube.com/watch?v=bRCoBgC_n1Q)
+6. [Personal and Company Vision](https://www.youtube.com/watch?v=SECxDW3HO4w)
 
-1. [The Art, Science, and Labor of Recruiting](http://www.khoslaventures.com/the-art-science-and-labor-of-recruiting)
-2. [Gene Pool Engineering for Entrepreneurs](http://www.khoslaventures.com/gene-pool-engineering-for-entrepreneurs)
-3. [Company Building (Vinod's talk at KV Summit)](https://www.youtube.com/watch?v=bRCoBgC_n1Q)
-4. [Personal and Company Vision](https://www.youtube.com/watch?v=SECxDW3HO4w)
+![Lecture 17](http://blog.pinpt.co/wp-content/uploads/2017/06/live-office-hours-kevin-hale.jpg)
+
+### Lecture 17
+>Kevin Hale, Partner at Y Combinator, and Dalton Caldwell, Director of Admissions and Partner at Y Combinator, join us today to hold office hours with three startups: HubHaus, Lambda Intelligence, and Commaful.
+
 
 ...
 ...
