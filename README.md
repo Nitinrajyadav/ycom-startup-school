@@ -259,10 +259,11 @@ Quite literally the same update as Week #8.
 ### Week 10 Update
 
 1. Metric: Other
-2. Value: 
-3. Growth %: N/A
+2. Value: 0 
+3. Growth %: 0
 4. Additional Information
 
+Onboarded our first customer and signed contract for our second. Just onboarding and starting to work through our contract! Also, we hired and onboarded 4 new staff and 2 contractors, so, that was a big deal and took all last week and this week. Oh, and spent a good portion of time on administrative needs, like payroll and benefits and federal and state hiring and employment requirements. Ugh.
 
 ### Week 11 Update
 
