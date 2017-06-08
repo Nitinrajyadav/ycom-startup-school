@@ -147,6 +147,14 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 
 0. Course Lecture: [Live Office Hours with Kevin Hale and Dalton Caldwell](https://www.youtube.com/watch?v=8Qc8ipjzatY)
 
+![Lecture 18](http://blog.pinpt.co/wp-content/uploads/2017/06/raise-money-succeed-long-term.jpg)
+
+### Lecture 18
+>Jess Lee (Partner at Sequoia Capital) and Aaron Harris (Partner at YC) discuss raising money as an early stage company, and how to think about the fundraising process. Ali Rowghani (CEO of YC Continuity, previously CFO, COO @ Twitter, CFO @ Pixar) shares his thoughts on how to be a great leader and succeed long-term.
+
+0. Course Lecture: [How to Raise Money, and How to Succeed Long-Term](https://www.youtube.com/watch?v=5ZXU84_sGXo)
+1. [Lecture Slides](https://www.dropbox.com/s/qx8j793vv1yfqd2/Ali%20Rowghani%20-%20How%20to%20Succeed%20Long-Term.pdf?dl=0)
+
 ...
 ...
 ...
