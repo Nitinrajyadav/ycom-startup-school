@@ -294,3 +294,13 @@ Same as last week!
 4. Additional Information
 
 Same as last week!
+
+***
+
+## We Graduated
+
+Yup. I share a few thoughts [here](https://john.do/success-startup-school/).
+
+![Graduated](https://i0.wp.com/john.do/wp-content/uploads/2017/06/startup-school-john-saddington-graduate-certificate.jpeg)
+
+:boom:
