@@ -159,7 +159,7 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 
 Here's something neat that was created by OpenTalk:
 
-![YC Summary](https://www.dropbox.com/s/k67h4gu4do0a3it/yc-startup-school-summary.png)
+![YC Summary](https://user-images.githubusercontent.com/24398345/27302445-f59ef812-54eb-11e7-985c-906158145ebc.png)
 
 You can download the PDF [here](https://www.dropbox.com/s/ft2r4iy2d3rjjv1/yc-startup-school-summary.pdf?dl=0).
 
