@@ -155,9 +155,13 @@ The following are lectures provided via the YCOMBINATOR Startup School:
 0. Course Lecture: [How to Raise Money, and How to Succeed Long-Term](https://www.youtube.com/watch?v=5ZXU84_sGXo)
 1. [Lecture Slides](https://www.dropbox.com/s/qx8j793vv1yfqd2/Ali%20Rowghani%20-%20How%20to%20Succeed%20Long-Term.pdf?dl=0)
 
-...
-...
-...
+## Summary PDF
+
+Here's something neat that was created by OpenTalk:
+
+![YC Summary](https://www.dropbox.com/s/k67h4gu4do0a3it/yc-startup-school-summary.png)
+
+You can download the PDF [here](https://www.dropbox.com/s/ft2r4iy2d3rjjv1/yc-startup-school-summary.pdf?dl=0).
 
 
 
@@ -276,15 +280,17 @@ Onboarded our first customer and signed contract for our second. Just onboarding
 ### Week 11 Update
 
 1. Metric: Other
-2. Value: 
+2. Value: 0
 3. Growth %: N/A
 4. Additional Information
 
+Same as last week!
 
 ### Week 12 Update
 
 1. Metric: Other
-2. Value: 
+2. Value: 0
 3. Growth %: N/A
 4. Additional Information
 
+Same as last week!
