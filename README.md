@@ -1,5 +1,7 @@
 # YCOMBINATOR Startup School
 
+*We [completed and graduated](https://github.com/pinpt/ycom-startup-school#we-graduated) from this! We even have the official hoodies and graduation certificates to prove it.* :P
+
 **Lectures**
 
 The following are lectures provided via the YCOMBINATOR Startup School:
