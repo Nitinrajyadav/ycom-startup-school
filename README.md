@@ -299,7 +299,7 @@ Same as last week!
 
 ***
 
-## We Graduated
+## We Graduated!!
 
 Yup. I share a few thoughts [here](https://john.do/success-startup-school/).
 
